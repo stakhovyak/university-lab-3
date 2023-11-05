@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/s-linked-list.dir/main.cpp.o" "CMakeFiles/s-linked-list.dir/node.cpp.o" "CMakeFiles/s-linked-list.dir/linked-list.cpp.o" -o s-linked-list 
