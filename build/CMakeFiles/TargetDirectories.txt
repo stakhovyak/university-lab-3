@@ -1,3 +1,0 @@
-/home/stakhovyak/Workspace/University/university-lab3/build/CMakeFiles/s-linked-list.dir
-/home/stakhovyak/Workspace/University/university-lab3/build/CMakeFiles/edit_cache.dir
-/home/stakhovyak/Workspace/University/university-lab3/build/CMakeFiles/rebuild_cache.dir

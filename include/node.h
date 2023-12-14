@@ -1,17 +1,23 @@
+#ifndef NODE_H
+#define NODE_H
+
 // Node class to represent 
-// a node of the linked list. 
+// a node of the linked list.
+template <typename T>
 class Node
 { 
  public: 
-  int data; 
-  Node* next; 
+  T data; 
+  Node<T>* next; 
   
   // Default constructor 
   Node();
 
   // Default destructor
-  ~Node() = default;
+  virtual ~Node();
   
   // Parameterised Constructor 
-  Node(int data);
+  Node(T data);
 }; 
+
+#endif
